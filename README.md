@@ -11,9 +11,13 @@
 - Fun fact: I'm a huge fan of Anime
 
 
-### 💻 My Skills 
-Azure, Python(Numpy, Pandas, Scikit learn, Seaborn, Keras), Pyspark, SQL, Hive, Tableau, HTML, CSS
+<div style="display: flex; flex-direction: row;">
+<img style="height: auto; width: 40%;" src="https://github-readme-stats.vercel.app/api?username=microize&show_icons=true&title_color=010100&icon_color=010100&text_color=010100&bg_color=f7df1e&locale=en&hide_border=true" alt="microize" />
+<img  style="height: auto; width: 40%;" src="https://github-readme-streak-stats.herokuapp.com/?user=microize&theme=Javascript" alt="microize" />
+</div>
 
+### 🖥️ My Skills 
+Azure, Python(Numpy, Pandas, Scikit learn, Seaborn, Keras), Pyspark, SQL, Hive, Tableau, HTML, CSS
 
 ### 📫 Personal Portfolio:
 - Website: [microize.github.io](https://microize.github.io/)
@@ -21,14 +25,12 @@ Azure, Python(Numpy, Pandas, Scikit learn, Seaborn, Keras), Pyspark, SQL, Hive, 
 ### 📫 How to reach me:
 - Linkedin: [@Sripathi Mohanasundaram](https://www.linkedin.com/in/sripathi-mohanasundaram/)
 - Twitter: [@sripathimohana1](https://twitter.com/sripathimohana1/)
-
-### 📫 Connect with me:
 - Kaggle: [@Sripathi Mohanasundaram](https://kaggle.com/sripathi-mohanasundaram/)
 - Hackerrank: [@3sripathi](https://www.hackerrank.com/3sripathi)
 - Leetcode: [@3sripathi](https://www.leetcode.com/3sripathi)
 - Hackerearth: [@sripathi3](https://www.hackerearth.com/@sripathi3)
 
-
+  
 <p align="center"><samp>
 Check out my repos ⬇️  
   </samp>
