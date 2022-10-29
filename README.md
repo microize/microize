@@ -27,7 +27,7 @@ Azure, Python(Numpy, Pandas, Scikit learn, Seaborn, Keras), Pyspark, SQL, Hive, 
 ### 📫 How to reach me:
 - Linkedin: [@Sripathi Mohanasundaram](https://www.linkedin.com/in/sripathi-mohanasundaram/)
 - Twitter: [@sripathimohana1](https://twitter.com/sripathimohana1/)
-- Kaggle: [@Sripathi Mohanasundaram](https://kaggle.com/sripathi-mohanasundaram/)
+- Kaggle: [@Sripathi Mohanasundaram](https://www.kaggle.com/microize)
 - Hackerrank: [@3sripathi](https://www.hackerrank.com/3sripathi)
 - Leetcode: [@3sripathi](https://www.leetcode.com/3sripathi)
 - Hackerearth: [@sripathi3](https://www.hackerearth.com/@sripathi3)
