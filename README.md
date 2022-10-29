@@ -12,8 +12,8 @@
 
 
 <div style="display: flex; flex-direction: row;">
-<img style="height: auto; width: 40%;" src="https://github-readme-stats.vercel.app/api?username=microize&show_icons=true&title_color=010100&icon_color=010100&text_color=010100&bg_color=f7df1e&locale=en&hide_border=true" alt="microize" />
-<img  style="height: auto; width: 40%;" src="https://github-readme-streak-stats.herokuapp.com/?user=microize&theme=Javascript" alt="microize" />
+<img style="height: auto; width: 49%;" src="https://github-readme-stats.vercel.app/api?username=microize&show_icons=true&title_color=010100&icon_color=010100&text_color=010100&bg_color=f7df1e&locale=en&hide_border=true" alt="microize" />
+<img  style="height: auto; width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=microize&theme=Javascript" alt="microize" />
 </div>
 
 ### 🖥️ My Skills 
