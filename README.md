@@ -22,7 +22,7 @@
 Azure, Python(Numpy, Pandas, Scikit learn, Seaborn, Keras), Pyspark, SQL, Hive, Tableau, HTML, CSS
 
 ### 📫 Personal Portfolio:
-- Website: [microize.github.io](https://microize.github.io/)
+- Website: [sripathim.com](https://sripathim.com/)
 
 ### 📫 How to reach me:
 - Linkedin: [@Sripathi Mohanasundaram](https://www.linkedin.com/in/sripathi-mohanasundaram/)
