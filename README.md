@@ -1,5 +1,3 @@
-![My Image](https://github.com/microize/microize/blob/main/sripathi_data_engineer_header_img.png)
-
 ### Hi there 👋 welcome to my Github! 
 
 ### I'm a **Azure Data Engineer** working in Bangalore, India.
