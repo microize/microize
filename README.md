@@ -12,10 +12,10 @@ Hello there! I'm a passionate **Azure Data Engineer** based in the vibrant city 
 
 ## About Me
 
-- 💻 Passionate about Azure Data Engineering and proficient in Python, PySpark, SQL, Azure Data Factory, Azure Databricks, and Azure Dedicated SQL Pool.
-- 🌱 I enjoy creating data pipelines, integrating new data sources, and assisting businesses in leveraging the power of data.
-- 💬 Feel free to connect with me for discussions on Data Engineering, SQL, Python, or PySpark.
-- 💡 Fun fact: When I'm not immersed in data solutions, I indulge in watching captivating anime series like "Demon Slayer," "Naruto," and "Jujutsu Kaisen." The enthralling storylines and thrilling battles never fail to entertain me. ⚔️🔥
+- Passionate about Data Engineering and proficient in Python, PySpark, SQL, Azure Data Factory, Azure Databricks, and Azure Dedicated SQL Pool.
+- I enjoy creating data pipelines, integrating new data sources, and assisting businesses in leveraging the power of data.
+- Feel free to connect with me for discussions on Data Engineering, SQL, Python, or PySpark.
+- Fun fact: When I'm not immersed in data solutions, I indulge in watching captivating anime series like "Demon Slayer," "Naruto," and "Jujutsu Kaisen." The enthralling storylines and thrilling battles never fail to entertain me. ⚔️🔥
 
 
 ## GitHub Statistics
