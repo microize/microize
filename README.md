@@ -16,7 +16,7 @@
 - **Programming**: SQL, Python, PySpark, Langchain, crew.ai.
 
 📞 Connect with me:
--  Let's talk about GenAI, Data Engineering, Python, Azure, or even anime! If you're a fan of "Demon Slayer" and "Attack on Titan," you'll feel right at home.
+-  Let's talk about GenAI, Data Engineering, Python, Azure, or even anime! If you're a fan of "Demon Slayer", "Solo Leveling" and "Attack on Titan," you'll feel right at home.
 
 ## GitHub Statistics
 
@@ -38,11 +38,8 @@ Visit my website for more about my work: [sripathim.com](https://sripathim.com/)
 
 Reach out to me on:
 - [LinkedIn](https://www.linkedin.com/in/sripathi-mohanasundaram/)
-- [Twitter](https://twitter.com/sripathimohana1/)
 - [Kaggle](https://www.kaggle.com/microize)
-- [HackerRank](https://www.hackerrank.com/3sripathi)
 - [LeetCode](https://www.leetcode.com/3sripathi)
-- [HackerEarth](https://www.hackerearth.com/@sripathi3)
 
 ---
 
