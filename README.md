@@ -1,10 +1,9 @@
+## Introduction
+👋 Hello, I'm Sripathi! I'm a dedicated Azure Data Engineer based in Chennai, focusing on creating robust data solutions on Microsoft Azure to enhance business operations. For insights into my innovative projects spanning Data Engineering, Machine Learning, and Large Language Models, explore my GitHub!
+
 <p align="center">
   <img src="sripathi_data_engineer_header_img.png" alt="Sripathi Data Engineer Header Image">
 </p>
-
-## Introduction
-
-👋 Hello, I'm Sripathi! I'm a dedicated Azure Data Engineer based in Chennai, focusing on creating robust data solutions on Microsoft Azure to enhance business operations. For insights into my innovative projects spanning Data Engineering, Machine Learning, and Large Language Models, explore my GitHub!
 
 🚀 What I'm doing now:
 - Constructing scalable data pipelines leveraging Azure.
@@ -18,8 +17,6 @@
 
 📞 Connect with me:
 -  Let's talk about GenAI, Data Engineering, Python, Azure, or even anime! If you're a fan of "Demon Slayer" and "Attack on Titan," you'll feel right at home.
-
-Dive into my GitHub for hands-on applications and detailed technical discussions that drive strategic decision-making and innovation.
 
 ## GitHub Statistics
 
