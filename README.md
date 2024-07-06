@@ -18,6 +18,7 @@
 📞 Connect with me:
 -  Let's talk about GenAI, Data Engineering, Python, Azure, or even anime! If you're a fan of **Demon Slayer**, **Solo Leveling** and **Attack on Titan**, you'll feel right at home.
 
+
 ## GitHub Statistics
 
 <div style="display: flex; flex-direction: row;">
@@ -25,14 +26,17 @@
 <img style="height: auto; width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=microize&theme=Javascript" alt="GitHub Streak Stats for microize" />
 </div>
 
+
 ## My Skills
 
 - **Cloud Computing**: Azure
 - **Programming Languages**: Python, PySpark, SQL
 
+
 ## Personal Portfolio
 
 Visit my website for more about my work: [sripathim.com](https://sripathim.com/)
+
 
 ## Contact Information
 
