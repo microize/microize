@@ -16,7 +16,7 @@
 - **Programming**: SQL, Python, PySpark, Langchain, crew.ai.
 
 📞 Connect with me:
--  Let's talk about GenAI, Data Engineering, Python, Azure, or even anime! If you're a fan of "Demon Slayer", "Solo Leveling" and "Attack on Titan," you'll feel right at home.
+-  Let's talk about GenAI, Data Engineering, Python, Azure, or even anime! If you're a fan of **Demon Slayer**, **Solo Leveling** and **Attack on Titan**, you'll feel right at home.
 
 ## GitHub Statistics
 
