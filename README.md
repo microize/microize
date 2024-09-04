@@ -13,13 +13,6 @@ I craft robust data solutions on Microsoft Azure to boost business operations. A
 ### Connect:
 You can connect with me on [sripathim.com](https://sripathim.com/), [LinkedIn](https://www.linkedin.com/in/sripathi-mohanasundaram/), [Kaggle](https://www.kaggle.com/microize), and [LeetCode](https://www.leetcode.com/3sripathi).
 
-### GitHub Statistics
-
-<div style="display: flex; flex-direction: row;">
-<img style="height: auto; width: 49%;" src="https://github-readme-stats.vercel.app/api?username=microize&show_icons=true&title_color=010100&icon_color=010100&text_color=010100&bg_color=f7df1e&locale=en&hide_border=true" alt="GitHub Stats for microize" />
-<img style="height: auto; width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=microize&theme=Javascript" alt="GitHub Streak Stats for microize" />
-</div>
-
 ---
 
 <p align="center"><samp>Explore my repositories below ⬇️</samp></p>
